@@ -3,7 +3,7 @@
 ## Resumo de análise detalhada ✔
 **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
 
-## O que é o Well-Architected?
+## O que é o Well-Architected? 
 
 O AWS Well-Architected Framework é um conjunto de práticas recomendadas e diretrizes de arquitetura desenvolvido pela Amazon Web Services (AWS) para ajudar os clientes a construir e operar sistemas seguros, confiáveis, eficientes e econômicos na nuvem AWS.
 
