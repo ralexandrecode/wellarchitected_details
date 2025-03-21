@@ -356,7 +356,8 @@ Responsabilidade.
 
 Sustentabilidade, impacto ambiental, eficiência energética, recursos renováveis, pegada de carbono, redução de consumo de energia, minimizar impactos ambientais, responsabilidade social, otimização de cargas de workloads, implantação de escalabilidade, eficiência de código, adoção de algoritmos modernos, dimensionamento adequado, redução de desperdício, redução de emissão de carbono, compreender o impacto dos serviços, energia renovável e a eficiência energética.
 
-## FERRAMENTA ONLINE Well-Architected Framework
+## FERRAMENTA ONLINE 
+### Well-Architected Framework
 
 ### O que é?
 
