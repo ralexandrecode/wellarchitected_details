@@ -1,8 +1,10 @@
-# Princípios de Design e Práticas Recomendadas Well-Architected 📒
+# Princípios de Design e Práticas Recomendadas do AWS Well-Architected 📒
 
-## Resumo de análise detalhada
 <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&height=100&duration=1600&pause=1000&color=045ebf&width=750&lines=Resumo de Análise Detalhada +; Framework Well-Architected AWS; " alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&duration=1600&pause=1000&color=008000&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
-#### **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
+## Resumo de análise detalhada
+
+## **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
+
 ## O que é o Well-Architected? 
 
 O AWS Well-Architected Framework é um conjunto de práticas recomendadas e diretrizes de arquitetura desenvolvido pela Amazon Web Services (AWS) para ajudar os clientes a construir e operar sistemas seguros, confiáveis, eficientes e econômicos na nuvem AWS.
