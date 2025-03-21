@@ -404,10 +404,6 @@ Elas permitem uma análise mais profunda para cenários e setores específicos f
 
 ### 💭 Conclusão
 
-Claro! Com base nas informações que você forneceu sobre os seis pilares do AWS Well-Architected Framework, aqui está um texto de conclusão para o seu documento:
-
-## Conclusão
-
 Este documento detalhou os seis pilares do AWS Well-Architected Framework: Excelência Operacional, Eficiência de Desempenho, Segurança, Confiabilidade, Otimização de Custos e Sustentabilidade. Cada pilar oferece um conjunto de princípios de design e práticas recomendadas que, quando aplicados, resultam em arquiteturas de nuvem robustas, eficientes e sustentáveis.
 
 A adoção do Well-Architected Framework permite que arquitetos e desenvolvedores tomem decisões informadas, mitiguem riscos e otimizem suas cargas de trabalho na AWS. A ferramenta Well-Architected, com suas lentes personalizadas e fluxo de trabalho de aprimoramento, facilita a avaliação contínua e a melhoria das arquiteturas.
