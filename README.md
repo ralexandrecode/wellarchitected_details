@@ -367,7 +367,7 @@ Sustentabilidade, impacto ambiental, eficiência energética, recursos renováve
 
 Well-Architected Framework é um mecanismo de aprimoramento contínuo que ajuda os clientes a avaliar consistentemente as cargas de trabalho em relação às práticas recomendadas da Amazon Web Services.
 
-* Mecanismo = Medir - Aprimorar - Aprender (MAA)
+* Mecanismo = Medir, Aprimorar, Aprender (MAA)
 * Componentes = Conteúdo, Ferramenta e Dados (CFD)
 * Conteúdo = Pilares e Lentes, Princípios de Design, Práticas Recomendadas e Perguntas (PLPPP)
 
