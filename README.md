@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg" target=_blank rel="nofollow noopener noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&height=100&duration=1600&pause=1000&color=045ebf&width=750&lines=Resumo de Análise Detalhada +; Framework Well-Architected AWS; " alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Montserrat&size=44&duration=1600&pause=1000&color=008000&width=435&lines=Fala+Devs!+Sejam+bem-vindos!;Web+Developers...;Mobile+Developers...;FullStack..https://emresitesweb.com.br/wp-content/uploads/2023/11/gitironman01.png.;Systems+Analysts...;...and students!" style="max-width: 100%;">
 # Princípios de Design e Práticas Recomendadas Well-Architected 📒
-## Resumo de análise detalhada ✔
+## Resumo de análise detalhada
 **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
 
 ## O que é o Well-Architected? 
@@ -45,7 +45,7 @@ O Framework AWS Well-Architected evoluiu desde 2012, com adições de pilares, l
 * 2021: Sustentabilidade e mais lentes.
 * 2022: AWS GovCloud e AWS Trusted Advisor.
 
-## PILARES DO WELL ARCHITECTED 🗼
+## PILARES DO WELL-ARCHITECTED
 
 ### Mnemônico: 2E2SCO 🤔
 
@@ -60,7 +60,7 @@ Pense nos pilares como um guia para construir sistemas na AWS que sejam:
 * Econômicos (Pilar otimização de custos)
 * Responsabilidade social (Pilar de sustentabilidade)
 
-## EXCELÊNCIA OPERACIONAL ✔
+## EXCELÊNCIA OPERACIONAL
 
 ### O que é?
 
@@ -112,7 +112,7 @@ Automação.
 
 Automação, monitoramento, melhoria contínua, entrega de valor, reação a eventos e alterações, definição de padrões, executar operações como código, antecipar e prever falhas, anotar e documentar, fazer alterações pequenas e reversíveis, aprender com as falhas, gerenciamento de mudanças, IaC, CI/CD.
 
-## EFICIÊNCIA DE DESEMPENHO ✔
+## EFICIÊNCIA DE DESEMPENHO
 
 ### O que é?
 
@@ -164,7 +164,7 @@ Otimização.
 
 Uso eficiente, otimização, escalabilidade, personalizar soluções, revisar e inovar, monitorar desempenho, compensações e contrabalanceamento, democratizar tecnologias avançadas, alcance global, arquitetura sem servidor, experimentar com mais frequência, seleção apropriada de recursos, escalabilidade, otimização, latência, throughput, caching.
 
-## SEGURANÇA ✔
+## SEGURANÇA
 
 ### O que é?
 
@@ -220,7 +220,7 @@ Proteção.
 
 Proteção, detecção, confidencialidade, integridade, disponibilidade, gerenciamento de permissões, controle e detecção de eventos, privilégio mínimo, rastreabilidade, captura de logs e métricas, segurança em camadas, proteger dados em trânsito e repouso, afastar pessoas dos dados, preparar para eventos de segurança, resposta a incidentes, IAM, criptografia, segurança de rede e conformidade.
 
-## CONFIABILIDADE ✔
+## CONFIABILIDADE
 
 ### O que é?
 
@@ -271,7 +271,7 @@ Resiliência.
 
 Resiliência, recuperação de falhas, consistência de execução, adicionar ou remover recursos dinamicamente, mitigar interrupções, prever e impedir falhas, testar procedimentos de recuperação, escalar horizontalmente, gerenciar alterações, parar de adivinhar capacidade, gerenciamento de falhas, reparar automaticamente, cotas de serviços, redundância, failover, backup e recuperação de desastres.
 
-## OTIMIZAÇÃO DE CUSTOS ✔
+## OTIMIZAÇÃO DE CUSTOS
 
 ### O que é?
 
@@ -309,7 +309,7 @@ Economia.
 
 Gerenciamento de custos, economia, adotar modelo de consumo, otimizar ao longo do tempo, conscientização e reconhecimento de despesas, utilizar serviços gerenciados, transparência nos custos, analisar e atribuir despesas, relatórios de custos e uso, marcação de recursos, notificações de orçamentos, alertas de pagamento, desativação de recursos, granularidade por hora, selecionar recursos apropriados, adotar modelos de consumo, prever alteração de recursos, revisar regularmente, equiparar oferta com a demanda, medir eficiência geral.
 
-## SUSTENTABILIDADE ✔
+## SUSTENTABILIDADE
 
 ### O que é?
 
