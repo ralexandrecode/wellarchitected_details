@@ -1,4 +1,4 @@
-:# PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED:
+### PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED
 
 **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
 
