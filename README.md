@@ -162,11 +162,7 @@ Otimização.
 
 ### Palavras Chave da Eficiência de Desempenho:
 
-Uso eficiente, otimização, escalabilidade, personalizar soluções, revisar e inovar, monitorar desempenho, compensações e contrabalanceamento, democratizar tecnologias avançadas, alcance global, arquitetura sem servidor, experimentar com mais frequência, seleção apropriada de recursos.
-
-### Palavras-chave:
-
-Escalabilidade, otimização, latência, throughput, caching.
+Uso eficiente, otimização, escalabilidade, personalizar soluções, revisar e inovar, monitorar desempenho, compensações e contrabalanceamento, democratizar tecnologias avançadas, alcance global, arquitetura sem servidor, experimentar com mais frequência, seleção apropriada de recursos, escalabilidade, otimização, latência, throughput, caching.
 
 ## SEGURANÇA
 
