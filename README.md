@@ -420,4 +420,8 @@ Ao seguir as diretrizes e práticas recomendadas de cada pilar, as organizaçõe
 
 Em resumo, o AWS Well-Architected Framework é uma ferramenta essencial para qualquer organização que busca construir e operar sistemas de alta qualidade na AWS. A aplicação desses princípios e práticas recomendadas não apenas melhora a eficiência e a confiabilidade, mas também promove a sustentabilidade e a otimização de custos, resultando em um valor de negócios significativo.
 
-
+# Conecte-se comigo: 🤝🏽
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoalexandreprofissional/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ralexandrecode)
+[![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/ricardoalexandre.profissional/badges)
+[![My profile DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DER?style=for-the-badge)](https://www.dio.me/users/ricardoalexandre_profissional)
