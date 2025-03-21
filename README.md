@@ -1,4 +1,4 @@
-## PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED
+# PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED
 
 **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
 
@@ -46,7 +46,7 @@ O Framework AWS Well-Architected evoluiu desde 2012, com adições de pilares, l
 
 ## PILARES DO WELL ARCHITECTED
 
-# Mnemônico: 2E2SCO
+### Mnemônico: 2E2SCO
 
 Excelência, Eficiência, Segurança, Sustentabilidade, Confiabilidade e Otimização
 
