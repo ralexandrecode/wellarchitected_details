@@ -50,10 +50,9 @@ O Framework AWS Well-Architected evoluiu desde 2012, com adições de pilares, l
 
 ## OS SEIS PILARES
 
-### Mnemônico: 
-2E2SCO 🤔
+### Mnemônico: 2E2SCO 🤔
 
-#### Excelência, Eficiência, Segurança, Sustentabilidade, Confiabilidade e Otimização
+Excelência, Eficiência, Segurança, Sustentabilidade, Confiabilidade e Otimização
 
 Pense nos pilares como um guia para construir sistemas na AWS que sejam:
 
