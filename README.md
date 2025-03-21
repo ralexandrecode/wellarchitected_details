@@ -48,7 +48,7 @@ O Framework AWS Well-Architected evoluiu desde 2012, com adições de pilares, l
 * 2021: Sustentabilidade e mais lentes.
 * 2022: AWS GovCloud e AWS Trusted Advisor.
 
-## PILARES DO WELL-ARCHITECTED
+## OS SEIS PILARES WA
 
 ### Mnemônico: 2E2SCO 🤔
 
