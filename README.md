@@ -1,4 +1,4 @@
-### PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED
+## PRINCÍPIOS E DESIGN E PRÁTICAS RECOMENDADAS AWS WELL-ARCHITECTED
 
 **Objetivo:** Este documento tem o objetivo de ajudar estudantes a melhorar a compreensão dos conceitos para realização do exame SAA-C03.
 
@@ -43,11 +43,10 @@ O Framework AWS Well-Architected evoluiu desde 2012, com adições de pilares, l
 * 2020: Atualização do Framework e proprietário da análise.
 * 2021: Sustentabilidade e mais lentes.
 * 2022: AWS GovCloud e AWS Trusted Advisor.
-* ??? Última atualização github pages
 
 ## PILARES DO WELL ARCHITECTED
 
-Mnemônico: 2E2SCO
+# Mnemônico: 2E2SCO
 
 Excelência, Eficiência, Segurança, Sustentabilidade, Confiabilidade e Otimização
 
@@ -400,6 +399,25 @@ Elas permitem uma análise mais profunda para cenários e setores específicos f
 * Pilar de sustentabilidade adicionado à ferramenta do AWS Well-Architected
 * AWS re:Post a partir da ferramenta do AWS Well-Architected
 
+### 💭 Conclusão
 
+Claro! Com base nas informações que você forneceu sobre os seis pilares do AWS Well-Architected Framework, aqui está um texto de conclusão para o seu documento:
+
+## Conclusão
+
+Este documento detalhou os seis pilares do AWS Well-Architected Framework: Excelência Operacional, Eficiência de Desempenho, Segurança, Confiabilidade, Otimização de Custos e Sustentabilidade. Cada pilar oferece um conjunto de princípios de design e práticas recomendadas que, quando aplicados, resultam em arquiteturas de nuvem robustas, eficientes e sustentáveis.
+
+A adoção do Well-Architected Framework permite que arquitetos e desenvolvedores tomem decisões informadas, mitiguem riscos e otimizem suas cargas de trabalho na AWS. A ferramenta Well-Architected, com suas lentes personalizadas e fluxo de trabalho de aprimoramento, facilita a avaliação contínua e a melhoria das arquiteturas.
+
+Ao seguir as diretrizes e práticas recomendadas de cada pilar, as organizações podem:
+
+* **Excelência Operacional**: Automatizar processos, melhorar a eficiência e garantir a confiabilidade.
+* **Eficiência de Desempenho**: Otimizar o uso de recursos para obter o melhor desempenho possível.
+* **Segurança**: Proteger dados e sistemas contra ameaças e acessos não autorizados.
+* **Confiabilidade**: Garantir a resiliência e a recuperação de sistemas em caso de falhas.
+* **Otimização de Custos**: Reduzir custos sem comprometer o desempenho e a segurança.
+* **Sustentabilidade**: Minimizar o impacto ambiental das operações na nuvem.
+
+Em resumo, o AWS Well-Architected Framework é uma ferramenta essencial para qualquer organização que busca construir e operar sistemas de alta qualidade na AWS. A aplicação desses princípios e práticas recomendadas não apenas melhora a eficiência e a confiabilidade, mas também promove a sustentabilidade e a otimização de custos, resultando em um valor de negócios significativo.
 
 
